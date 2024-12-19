@@ -2,11 +2,11 @@
 
 Official implementation of
 
-[When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?](TBD) by
+[When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?](https://arxiv.org/abs/2412.13662) by
 
 [Tongzhou Mu](https://cseweb.ucsd.edu/~t3mu/)\*, Zhaoyang Li\*, Stanisław Wiktor Strzelecki\*, Xiu Yuan, Yunchao Yao, [Litian Liang](https://www.litianliang.org/), [Hao Su](https://cseweb.ucsd.edu/~haosu), (UC San Diego)</br>
 
-<img src="assets/single_plot.jpg" width="20%"></br>
+<img src="assets/single_plot.jpg" width="40%"></br>
 
 ----
 
